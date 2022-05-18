@@ -1,0 +1,8 @@
+[submodule "sub-one"]
+	path = sub-one
+	url = ../one
+	branch = main
+[submodule "sub-wo"]
+	path = sub-wo
+	url = ../two
+	branch = main
